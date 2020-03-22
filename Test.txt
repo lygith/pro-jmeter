@@ -1,0 +1,49 @@
+1. 接口文档？
+2. 接口兼容的版本？
+3. 接口测试的程度？（正常场景和异常场景）
+4. 接口测试优先级？那些模块需要重点先做？
+
+
+1.现有测试对象包含几个页面？
+2.每个页面设计的接口？
+3.分别在哪一步调用
+4.每个接口包含哪些字段，输入，输出
+5.各个字段对应数据库那张表
+6.每个表中各个字段是什么意思？
+7.各个接口对表产生了怎么样的操作？
+
+《Alltesting测试学院》接口自动化测试视频教程上线！
+http://www.alltesting.cn/OTeachingMaterial/course.do?oper=toCourseDetail&&trainTaskId=139
+
+----------------swagger查看接口-----------------
+http://106.14.57.211:8097/swagger/ui/index
+
+接口文档
+http://wiki.gaiaworks.cn:8090/pages/viewpage.action?pageId=13553449
+
+1. 申请服务器，搭建两套自动化环境
+----------------------------------
+接口云整理了关于调用产线url的文档，测试的同事们可以根据以下的文档越过接口云直接调用产线url，链接如下
+http://192.168.0.186:8090/pages/viewpage.action?pageId=28338446
+
+---------------在线JSon----------------------------
+http://www.bejson.com/
+
+
+
+---------------fiddler 学习文档--------------
+https://www.cnblogs.com/yoyoketang/tag/fiddler/
+
+---------python-------------
+https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+
+http://www.runoob.com/python/python-basic-syntax.html
+
+https://www.jianshu.com/p/d9fc43995fde
+----------------------------
+
+
+1. 接口云每次更新都需要晚上10点之后，每次更新如果都需要测试和开发人员留守，是否可以给出激励措施
+2. 接口云每次上线一个小功能，为什么都要我们把登录打卡测一遍，他们的功能根本就没有动到这块逻辑，这个有必要花费时间和人力吗？
+
+
